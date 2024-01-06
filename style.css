@@ -5,8 +5,17 @@ body{
     align-items: center;
     flex-wrap: wrap;
 }
-h1{
-    text-align: center;
+
+.heading{
+    display: flex;
+    justify-content: center;
+    h1{
+        align-self: center;
+    }
+}
+
+.heading img{
+    max-width: 18%; 
 }
 
 

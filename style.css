@@ -1,3 +1,9 @@
+@media screen and (max-width: 768px) {
+    .container {
+        flex-direction: column;
+    }
+}
+
 
 body{
     display: flex;
@@ -37,7 +43,7 @@ body{
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    max-width: 100%;
+    max-width: 50%;
     img,a{
         max-width: 100%;
         align-self: center;
@@ -56,7 +62,6 @@ body{
     border: 0px solid grey;
     margin: 10px;
     padding: 10px;
-    max-width: 50%;
     box-shadow: 2px 2px 2px 2px grey;
     border-radius: 20px;
 }

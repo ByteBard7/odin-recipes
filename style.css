@@ -19,9 +19,12 @@ h1{
 }
 
 .first-recipe, .second-recipe, .third-recipe{
-    img{
-        width: 60%%;
-        height: 150px;
+    display: flex;
+    flex-direction: column;
+    img,a{
+        max-width:70%%;
+        max-height: 190px;
+        align-self: center;
     }
 }
 
@@ -34,3 +37,9 @@ h1{
     box-shadow: 2px 2px 2px 2px grey;
     border-radius: 20px;
 }
+
+
+.second-recipe{
+    align-self: flex-end;
+}
+

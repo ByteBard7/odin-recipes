@@ -63,3 +63,8 @@ body{
     align-self: flex-end;
 }
 
+.card p{
+    font-style: italic;
+}
+
+

@@ -68,3 +68,8 @@ body{
 }
 
 
+@media screen and (min-width:700px){
+    .container {
+        max-width: 40%;
+    }
+}

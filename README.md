@@ -2,7 +2,7 @@ My Odin Recipes Project
 
 
 live preview-
-https://coolgorithm.github.io/odin-recipes/
+https://bytebard7.github.io/odin-recipes/
 
 This project marks my first successful completion within The Odin Project. It's a basic recipe website where I've compiled recipes for my favorite foods.
 
